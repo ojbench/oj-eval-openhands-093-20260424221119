@@ -1,0 +1,7 @@
+CMakeFiles/
+CMakeCache.txt
+code
+test1.txt
+test2.txt
+*.o
+*.out
